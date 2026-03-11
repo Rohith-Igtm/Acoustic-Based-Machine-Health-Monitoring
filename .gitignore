@@ -1,0 +1,15 @@
+# Audio data (13GB — keep on Colab/Drive)
+*.wav
+*.mp3
+*.flac
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
