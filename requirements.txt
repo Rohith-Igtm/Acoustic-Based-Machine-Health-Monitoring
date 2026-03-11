@@ -1,0 +1,9 @@
+tensorflow
+scikit-learn
+librosa
+numpy
+pandas
+matplotlib
+joblib
+imbalanced-learn
+soundfile
